@@ -1,0 +1,1 @@
+My educational assignment on the basics of jQuery at Coding Dojo.

@@ -1,0 +1,73 @@
+*{
+    margin: 0px;
+    padding: 0px;
+}
+
+h1, button, p {
+    font-family: helvetica;
+    font-weight: normal;
+}
+
+h1 {
+    margin: 20px 0px 20px 0px;
+    text-align: center;
+}
+
+p, button {
+    display: inline-block;
+    vertical-align: top;
+}
+
+button {
+    padding: 10px 20px 10px 20px;
+    font-size: 20px;
+}
+
+p {
+    margin: 10px 0px 0px 50px;
+}
+
+img {
+    max-width: 100%;
+}
+
+.red {
+    color: red;
+}
+
+.sections {
+    padding: 0px 0px 30px 0px;
+}
+
+.freebuttons {
+    /* display: inline-block; */
+    margin: 20px 0px 20px 0px;
+}
+
+#wrapper {
+    margin: 20px;
+    padding: 0px 20px 20px 20px;
+    border: 5px solid black;
+}
+
+#midsection {
+    border-top: 5px solid black;
+    border-bottom: 5px solid black;
+}
+
+#game {
+    display: none;
+    background-color: green;
+    padding: 10px 10px 20px 10px;
+}
+
+#casinoShindle {
+    display: none;
+    margin: 20px 0px 0px 0px;
+}
+
+#superPriseImg {
+    display: none;
+    margin: 20px 0px 0px 0px;
+    
+}
